@@ -1,0 +1,60 @@
+.body-bg-color{
+background: #f3c2c2;
+}
+.img{
+margin-top: 10px;
+height: auto;
+width: 230px;
+border-radius: 10px;
+padding: 50px 0px;
+
+}
+.border-bottom{
+    border-bottom: 1px solid black;
+}
+.text-center{
+    padding: 30px;
+    text-align: center;
+    font-size: 30px ;
+    font-style: italic;
+    color: red;
+
+}
+.display-center{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+.Recepit-body{
+
+margin: 4% 15%;
+background: white;
+box-shadow: 0px 0px 5px 0px black;
+height: auto;
+}
+.Recepit-body-details{
+    padding:1% 17%;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.text-border{
+    border-bottom: 1px solid black;
+    width: 50%;
+}
+
+.text-stapm{
+    display: flex;
+    justify-content: end;
+    flex-wrap: wrap;
+   margin-right:40px;
+
+    
+}
+.stamp{
+    height: 60px;
+    width: 130px;
+}
